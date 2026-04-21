@@ -47,11 +47,11 @@ PSL の Origin を示すための最小構文セットです。
 ## **3. Origin 証明（GitHub × Qiita）**
 
 - Qiita Origin 記事  
-  **（PSL Origin 記事 URL を貼る）**
+  **(https://qiita.com/ToyohroArimoto/items/f823fcb276cd517be5c2)**
 
 - Initial Commit Hash  
   ```
-  （ハッシュ付ける予定）
+  （87a45414f2ce4134347e880cf6de93d50d277f08）
   ```
 
 Qiita の公開日時と GitHub の初期コミットにより、  
